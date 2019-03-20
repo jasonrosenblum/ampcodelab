@@ -1,8 +1,6 @@
-{ 
-  "items": [
-    {
-    "manufacturer" : "Samsung", 
-    "model" : "Galaxy S10"
-    }
-   ]
+{
+	"items": [{
+		"manufacturer": "Samsung",
+		"model": "Galaxy S10"
+	}]
 }
